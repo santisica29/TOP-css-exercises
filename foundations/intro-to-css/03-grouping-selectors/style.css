@@ -1,0 +1,12 @@
+.btn-primary, .btn-secondary{
+    font: 28px "Helvetica", "Times New Roman", sans-serif;
+}
+
+.btn-primary{
+    background-color: black;
+    color: white;
+}
+
+.btn-secondary{
+    background-color: yellow;
+}
